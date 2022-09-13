@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+This is a Real time coding platform for collaboration with other programmers.
